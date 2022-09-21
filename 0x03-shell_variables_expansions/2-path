@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "^d" | wc -l
+PATH=$PATH:/action
