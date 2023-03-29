@@ -1,3 +1,5 @@
+#code in puppet to create a file with the requirements below
+
 file { '/tmp/school':
   ensure  => file,
   path    => '/tmp/school',
